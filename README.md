@@ -115,6 +115,7 @@ uvicorn backend.main:app --host 0.0.0.0 --port 10000
 - Model versioning with timestamps
 - Basic frontend / streamlit dashboard
 
-## License
+### License
 Proprietary / internal (adjust as needed).
+
 
